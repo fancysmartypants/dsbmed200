@@ -1,0 +1,4 @@
+dsbmed200-env/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
